@@ -1,0 +1,44 @@
+td,
+th {
+    padding: 10px;
+}
+
+td[scope="col"] {
+    background-color: #696969;
+    color: #fff;
+}
+
+th[scope="row"] {
+background-color: #ebebeb;
+}
+
+a{
+color: black;
+text-decoration: none;
+}
+
+td[class="coral"] {
+  background-color: coral;
+  color:green;
+}
+
+td[class="plum"] {
+  background-color:plum;
+}
+
+td[class="powderblue"] {
+  background-color:powderblue;
+}
+
+td[class="yellow"] {
+  background-color:yellow;
+}
+
+p{
+  color:green;
+}
+
+td:hover {
+  background-color:red;
+  cursor:not-allowed;
+}
